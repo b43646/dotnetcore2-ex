@@ -7465,15 +7465,12 @@
   },
   "project": {
     "version": "1.0.0",
-    "restoreSettings": {
-      "hideWarningsAndErrors": true
-    },
     "restore": {
-      "projectUniqueName": "C:\\Users\\ThinkPad\\source\\repos\\Library\\LibararyData\\LibraryData.csproj",
+      "projectUniqueName": "C:\\Users\\ThinkPad\\source\\repos\\dotnetcore2-ex\\Library\\LibararyData\\LibraryData.csproj",
       "projectName": "LibraryData",
-      "projectPath": "C:\\Users\\ThinkPad\\source\\repos\\Library\\LibararyData\\LibraryData.csproj",
+      "projectPath": "C:\\Users\\ThinkPad\\source\\repos\\dotnetcore2-ex\\Library\\LibararyData\\LibraryData.csproj",
       "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ThinkPad\\source\\repos\\Library\\LibararyData\\obj\\",
+      "outputPath": "C:\\Users\\ThinkPad\\source\\repos\\dotnetcore2-ex\\Library\\LibararyData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -1,5 +1,0 @@
-C:\Users\ThinkPad\source\repos\Library\LibararyData\obj\Debug\netcoreapp2.0\LibararyData.csproj.CoreCompileInputs.cache
-C:\Users\ThinkPad\source\repos\Library\LibararyData\obj\Debug\netcoreapp2.0\LibararyData.AssemblyInfoInputs.cache
-C:\Users\ThinkPad\source\repos\Library\LibararyData\obj\Debug\netcoreapp2.0\LibararyData.AssemblyInfo.cs
-C:\Users\ThinkPad\source\repos\Library\LibararyData\bin\Debug\netcoreapp2.0\LibararyData.deps.json
-C:\Users\ThinkPad\source\repos\Library\LibararyData\bin\Debug\netcoreapp2.0\LibararyData.dll

@@ -1,9 +1,8 @@
-C:\Users\ThinkPad\source\repos\Library\LibararyData\bin\Release\netcoreapp2.0\LibraryData.deps.json
-C:\Users\ThinkPad\source\repos\Library\LibararyData\bin\Release\netcoreapp2.0\LibraryData.dll
-C:\Users\ThinkPad\source\repos\Library\LibararyData\bin\Release\netcoreapp2.0\LibraryData.pdb
-C:\Users\ThinkPad\source\repos\Library\LibararyData\obj\Release\netcoreapp2.0\LibraryData.csprojResolveAssemblyReference.cache
-C:\Users\ThinkPad\source\repos\Library\LibararyData\obj\Release\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
-C:\Users\ThinkPad\source\repos\Library\LibararyData\obj\Release\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
-C:\Users\ThinkPad\source\repos\Library\LibararyData\obj\Release\netcoreapp2.0\LibraryData.AssemblyInfo.cs
-C:\Users\ThinkPad\source\repos\Library\LibararyData\obj\Release\netcoreapp2.0\LibraryData.dll
-C:\Users\ThinkPad\source\repos\Library\LibararyData\obj\Release\netcoreapp2.0\LibraryData.pdb
+C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\LibararyData\bin\Release\netcoreapp2.0\LibraryData.deps.json
+C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\LibararyData\bin\Release\netcoreapp2.0\LibraryData.dll
+C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\LibararyData\bin\Release\netcoreapp2.0\LibraryData.pdb
+C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\LibararyData\obj\Release\netcoreapp2.0\LibraryData.csproj.CoreCompileInputs.cache
+C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\LibararyData\obj\Release\netcoreapp2.0\LibraryData.AssemblyInfoInputs.cache
+C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\LibararyData\obj\Release\netcoreapp2.0\LibraryData.AssemblyInfo.cs
+C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\LibararyData\obj\Release\netcoreapp2.0\LibraryData.dll
+C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\LibararyData\obj\Release\netcoreapp2.0\LibraryData.pdb

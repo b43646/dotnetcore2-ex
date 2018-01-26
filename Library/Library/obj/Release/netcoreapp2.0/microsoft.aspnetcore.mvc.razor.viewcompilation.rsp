@@ -1,0 +1,13 @@
+C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\Library
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=Library
+--content-root=C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\Library
+--file=C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\Library\Views\catalog\Index.cshtml
+--file=C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\Library\Views\Home\About.cshtml
+--file=C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\Library\Views\Home\Contact.cshtml
+--file=C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\Library\Views\Home\Index.cshtml
+--file=C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\Library\Views\Shared\Error.cshtml
+--file=C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\Library\Views\Shared\_Layout.cshtml
+--file=C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\Library\Views\Shared\_ValidationScriptsPartial.cshtml
+--file=C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\Library\Views\_ViewImports.cshtml
+--file=C:\Users\ThinkPad\source\repos\dotnetcore2-ex\Library\Library\Views\_ViewStart.cshtml

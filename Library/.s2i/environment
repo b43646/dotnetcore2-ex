@@ -1,1 +1,1 @@
-DOTNET_STARTUP_PROJECT=Library
+DOTNET_STARTUP_PROJECT=Library/Library.csproj.

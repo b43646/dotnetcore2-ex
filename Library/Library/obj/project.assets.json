@@ -13171,11 +13171,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ThinkPad\\source\\repos\\dotnetcore2-ex\\Library\\Library\\Library.csproj",
+      "projectUniqueName": "C:\\Users\\ThinkPad\\source\\repos\\Library\\Library\\Library.csproj",
       "projectName": "Library",
-      "projectPath": "C:\\Users\\ThinkPad\\source\\repos\\dotnetcore2-ex\\Library\\Library\\Library.csproj",
+      "projectPath": "C:\\Users\\ThinkPad\\source\\repos\\Library\\Library\\Library.csproj",
       "packagesPath": "C:\\Users\\ThinkPad\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ThinkPad\\source\\repos\\dotnetcore2-ex\\Library\\Library\\obj\\",
+      "outputPath": "C:\\Users\\ThinkPad\\source\\repos\\Library\\Library\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -13194,11 +13194,11 @@
       "frameworks": {
         "netcoreapp2.0": {
           "projectReferences": {
-            "C:\\Users\\ThinkPad\\source\\repos\\dotnetcore2-ex\\Library\\LibararyData\\LibraryData.csproj": {
-              "projectPath": "C:\\Users\\ThinkPad\\source\\repos\\dotnetcore2-ex\\Library\\LibararyData\\LibraryData.csproj"
+            "C:\\Users\\ThinkPad\\source\\repos\\Library\\LibararyData\\LibraryData.csproj": {
+              "projectPath": "C:\\Users\\ThinkPad\\source\\repos\\Library\\LibararyData\\LibraryData.csproj"
             },
-            "C:\\Users\\ThinkPad\\source\\repos\\dotnetcore2-ex\\Library\\LibraryServices\\LibraryServices.csproj": {
-              "projectPath": "C:\\Users\\ThinkPad\\source\\repos\\dotnetcore2-ex\\Library\\LibraryServices\\LibraryServices.csproj"
+            "C:\\Users\\ThinkPad\\source\\repos\\Library\\LibraryServices\\LibraryServices.csproj": {
+              "projectPath": "C:\\Users\\ThinkPad\\source\\repos\\Library\\LibraryServices\\LibraryServices.csproj"
             }
           }
         }
